@@ -1,5 +1,5 @@
 '************************************************
-'* FOXAVR-S - V 1.10 - 2008-08-30               *
+'* FOXAVR-S - V 1.10 - 2013-09-26               *
 '* especially made for 2/80 combined mini-fox   *
 '* state and keying machine for ARDF beacons    *
 '* Frank Sperber, DL6DBN/AA9KJ, www.dl6dbn.de   *
